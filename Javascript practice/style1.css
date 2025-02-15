@@ -1,0 +1,11 @@
+.inputbar {
+  display: flex;
+  gap: 20px;
+}
+
+#display1,
+#display2,
+#display3,
+#display4 {
+  height: 30px;
+}
